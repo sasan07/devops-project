@@ -1,0 +1,13 @@
+.terraform/
+
+*.tfstate
+
+*.tfstate.*
+
+terraform.tfvars
+
+.terraform.lock.hcl
+
+*.pem
+
+node_modules/
